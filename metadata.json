@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS HUD",
+  "description": "Futuristic Iron Man JARVIS AI HUD interface with interactive holographic widgets, voice assistant, real-time system telemetry, and Arc Reactor controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

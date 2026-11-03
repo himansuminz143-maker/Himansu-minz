@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JARVIS HUD</string>
+    <string name="hud_title">J.A.R.V.I.S. // MARK LXXXV</string>
+    <string name="hud_subtitle">STARK INDUSTRIES TACTICAL INTERFACE</string>
+    <string name="boot_skip">BYPASS INITIALIZATION</string>
+    <string name="red_alert_label">RED ALERT</string>
+    <string name="flight_mode_label">FLIGHT HUD</string>
+    <string name="voice_assistant_title">J.A.R.V.I.S. VOICE CORE</string>
+    <string name="clock_widget_title">CHRONO TELEMETRY</string>
+    <string name="battery_widget_title">POWER CELLS &amp; THERMAL</string>
+    <string name="weather_widget_title">ATMOSPHERIC SENSORS</string>
+    <string name="cpu_ram_widget_title">NEURAL CPU &amp; MEMORY</string>
+    <string name="connectivity_widget_title">COMMS &amp; DATALINK</string>
+    <string name="arc_reactor_widget_title">ARC REACTOR CORE</string>
+    <string name="music_widget_title">STARK AUDIO MATRIX</string>
+    <string name="flashlight_widget_title">PHOTON TORCH BEAM</string>
+    <string name="quick_settings_widget_title">TACTICAL QUICK MATRIX</string>
+    <string name="customize_hud_label">WIDGET MATRIX CONFIG</string>
+</resources>
